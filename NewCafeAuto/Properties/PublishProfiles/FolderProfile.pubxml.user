@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\cafe</_PublishTargetUrl>
+    <History>True|2023-09-07T13:59:19.8769744Z;False|2023-09-07T16:58:51.4569737+03:00;False|2023-09-07T16:58:35.5042812+03:00;True|2023-09-04T17:47:08.9291720+03:00;False|2023-09-04T17:46:09.9424271+03:00;False|2023-09-04T17:45:51.3737902+03:00;False|2023-09-04T17:45:26.1158464+03:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
